@@ -1,0 +1,129 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: rgb(41, 38, 65);
+}
+
+/* --------------------------------------------- */
+
+header {
+    text-align: center;
+    font-size: 22px;
+    padding: 40px;
+    background-color: rgb(49, 49, 97);
+    word-spacing: 100px;
+}
+
+.icone {
+    margin: 0;
+    padding: 10px;
+}
+
+.titulo {
+    color: white;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.perfil {
+    text-decoration: none;
+    background-color: rgb(41, 38, 65);
+    padding: 15px;
+    border-radius: 20px;
+    color: white;
+    border-style: double;
+    border-color: white;
+}
+
+.perfil:hover {
+    background-color: white;
+    color: rgb(41, 38, 65);
+}
+
+.servicos {
+    text-decoration: none;
+    background-color: rgb(41, 38, 65);
+    padding: 15px;
+    border-radius: 20px;
+    color: white;
+    border-style: double;
+    border-color: white;
+}
+
+.servicos:hover {
+    background-color: white;
+    color: rgb(41, 38, 65);
+}
+
+.contatos {
+    text-decoration: none;
+    background-color: rgb(41, 38, 65);
+    padding: 15px;
+    border-radius: 20px;
+    color: white;
+    border-style: double;
+    border-color: white;
+}
+
+.contatos:hover {
+    background-color: white;
+    color: rgb(41, 38, 65);
+}
+
+/* ----------------------------------------------------------- */
+
+.corpo_site {
+    text-align: center;
+    color: white;
+    padding-top: 20px;
+    font-size: 25px;
+}
+
+.corpo_site h3 {
+    background-color: rgb(49, 49, 97);
+    padding: 20px;
+    margin: 20px 300px;
+    border-radius: 20px;
+    border-style: double;
+    border-color: white;
+}
+
+.corpo_site p {
+    background-color: rgb(49, 49, 97);
+    padding: 20px;
+    margin: 20px 300px;
+    border-radius: 20px;
+    border-style: double;
+    border-color: white;
+    font-size: 18px;
+}
+
+.imagens {
+    background-color: rgb(49, 49, 97);
+    padding: 20px;
+    margin: 20px 550px;
+    border-radius: 20px;
+    border-style: double;
+    border-color: white;
+}
+
+/* ------------------------------------------------------------ */
+
+footer {
+   background-color: rgb(53, 49, 80);
+   padding: 50px;
+   text-align: center;
+   color: white;
+   font-size: 25px;
+}
+
+.rodape {
+    text-align: center;
+    color: white;
+    font-size: 15px;
+    padding: 10px;
+}

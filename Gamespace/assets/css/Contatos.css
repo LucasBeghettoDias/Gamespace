@@ -1,0 +1,136 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: rgb(41, 38, 65);
+}
+
+/* --------------------------------------------- */
+
+header {
+    text-align: center;
+    font-size: 22px;
+    padding: 40px;
+    background-color: rgb(49, 49, 97);
+    word-spacing: 100px;
+}
+
+.icone {
+    margin: 0;
+    padding: 10px;
+}
+
+.titulo {
+    color: white;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.perfil {
+    text-decoration: none;
+    background-color: rgb(41, 38, 65);
+    padding: 15px;
+    border-radius: 20px;
+    color: white;
+    border-style: double;
+    border-color: white;
+}
+
+.perfil:hover {
+    background-color: white;
+    color: rgb(41, 38, 65);
+}
+
+.servicos {
+    text-decoration: none;
+    background-color: rgb(41, 38, 65);
+    padding: 15px;
+    border-radius: 20px;
+    color: white;
+    border-style: double;
+    border-color: white;
+}
+
+.servicos:hover {
+    background-color: white;
+    color: rgb(41, 38, 65);
+}
+
+.contatos {
+    text-decoration: none;
+    background-color: rgb(41, 38, 65);
+    padding: 15px;
+    border-radius: 20px;
+    color: white;
+    border-style: double;
+    border-color: white;
+}
+
+.contatos:hover {
+    background-color: white;
+    color: rgb(41, 38, 65);
+}
+
+/* ---------------------------------------------------------- */
+
+.Contatos {
+    background-color: rgb(49, 49, 97);
+    text-align: center;
+    color: white;
+    font-size: 22px;
+    padding: 20px;
+    margin: 50px 300px;
+    border-radius: 20px;
+    border-style: double;
+    border-color: white;
+}
+
+.email {
+    text-align: center;
+    background-color: rgb(49, 49, 97);
+    padding: 20px;
+    margin: 50px 200px;
+    border-radius: 20px;
+    border-style: double;
+    border-color: white;
+}
+
+.contatar {
+    color: white;
+    font-size: 20px;
+}
+
+.telefone {
+    text-align: center;
+    background-color: rgb(49, 49, 97);
+    padding: 20px;
+    margin: 50px 200px;
+    border-radius: 20px;
+    border-style: double;
+    border-color: white;
+}
+
+.tel {
+    color: white;
+    font-size: 20px;
+}
+
+/* ------------------------------------- */
+
+footer {
+    background-color: rgb(53, 49, 80);
+    padding: 50px;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+ }
+ 
+ .rodape {
+     text-align: center;
+     color: white;
+     font-size: 15px;
+     padding: 10px;
+ }

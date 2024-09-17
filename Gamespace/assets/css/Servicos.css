@@ -1,0 +1,145 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    background-color: rgb(41, 38, 65);
+}
+
+/* --------------------------------------------- */
+
+header {
+    text-align: center;
+    font-size: 22px;
+    padding: 40px;
+    background-color: rgb(49, 49, 97);
+    word-spacing: 100px;
+}
+
+.icone {
+    margin: 0;
+    padding: 10px;
+}
+
+.titulo {
+    color: white;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.perfil {
+    text-decoration: none;
+    background-color: rgb(41, 38, 65);
+    padding: 15px;
+    border-radius: 20px;
+    color: white;
+    border-style: double;
+    border-color: white;
+}
+
+.perfil:hover {
+    background-color: white;
+    color: rgb(41, 38, 65);
+}
+
+.servicos {
+    text-decoration: none;
+    background-color: rgb(41, 38, 65);
+    padding: 15px;
+    border-radius: 20px;
+    color: white;
+    border-style: double;
+    border-color: white;
+}
+
+.servicos:hover {
+    background-color: white;
+    color: rgb(41, 38, 65);
+}
+
+.contatos {
+    text-decoration: none;
+    background-color: rgb(41, 38, 65);
+    padding: 15px;
+    border-radius: 20px;
+    color: white;
+    border-style: double;
+    border-color: white;
+}
+
+.contatos:hover {
+    background-color: white;
+    color: rgb(41, 38, 65);
+}
+/* ----------------------------------------------------------- */
+
+.corpo {
+    text-align: center;
+    padding: 20px;
+    font-size: 22px;
+    color: white;
+    background-color: rgb(49, 49, 97);
+    margin: 15px 400px;
+    border-radius: 30px;
+    border-style: double;
+    border-color: white;
+    margin-bottom: 30px;
+}
+
+.textos {
+    text-align: center;
+    padding: 20px;
+    font-size: 18px;
+    color: white;
+    background-color: rgb(49, 49, 97);
+    margin: 15px 400px;
+    border-radius: 30px;
+    border-style: double;
+    border-color: white;
+    margin-bottom: 30px;
+} 
+
+/* --------------------------------------------- */
+
+footer {
+    background-color: rgb(53, 49, 80);
+    padding: 50px;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+ }
+
+ .botao {
+    padding: 20px;
+    background-color: rgb(53, 49, 80);
+    text-align: center;
+    margin: 15px 400px;
+    border-radius: 30px;
+    border-style: double;
+    border-color: white;
+ }
+
+ .butao {
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+ }
+
+ .butao:hover {
+    background-color: white;
+    color: rgb(49, 49, 97);
+ }
+
+ .botao:hover {
+    background-color: white;
+    color: rgb(49, 49, 97);
+ }
+ 
+ .rodape {
+     text-align: center;
+     color: white;
+     font-size: 15px;
+     padding: 10px;
+ }
